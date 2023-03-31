@@ -1,0 +1,57 @@
+{"properties": [
+  {
+    "name": "project.image",
+    "type": "java.lang.String",
+    "description": "A description for 'project.image'"
+  },
+  {
+    "name": "project.image",
+    "type": "java.lang.String",
+    "description": "A description for 'project.image'"
+  },
+  {
+    "name": "project.image",
+    "type": "java.lang.String",
+    "description": "A description for 'project.image'"
+  },
+  {
+    "name": "project.image",
+    "type": "java.lang.String",
+    "description": "A description for 'project.image'"
+  },
+  {
+    "name": "project.image",
+    "type": "java.lang.String",
+    "description": "A description for 'project.image'"
+  },
+  {
+    "name": "project.image",
+    "type": "java.lang.String",
+    "description": "A description for 'project.image'"
+  },
+  {
+    "name": "project.image",
+    "type": "java.lang.String",
+    "description": "A description for 'project.image'"
+  },
+  {
+    "name": "project.image",
+    "type": "java.lang.String",
+    "description": "A description for 'project.image'"
+  },
+  {
+    "name": "app.secret",
+    "type": "java.lang.String",
+    "description": "A description for 'app.secret'"
+  },
+  {
+    "name": "project.image",
+    "type": "java.lang.String",
+    "description": "A description for 'project.image'"
+  },
+  {
+    "name": "project.image",
+    "type": "java.lang.String",
+    "description": "A description for 'project.image'"
+  }
+]}

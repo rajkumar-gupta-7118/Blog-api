@@ -1,0 +1,6 @@
+projectKey=com.rk:Blog-app
+serverUrl=http://localhost:9000
+serverVersion=8.9.10.61524
+dashboardUrl=http://localhost:9000/dashboard?id=com.rk%3ABlog-app
+ceTaskId=AYWz_cAmZeseSwfsE7-k
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYWz_cAmZeseSwfsE7-k

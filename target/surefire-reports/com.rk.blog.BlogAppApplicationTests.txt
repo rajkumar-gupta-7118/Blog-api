@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.rk.blog.BlogAppApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.797 s - in com.rk.blog.BlogAppApplicationTests
